@@ -1,6 +1,9 @@
 # Googletest Primer
 
+1. [Introduction: Why googletest?](#intro)
+1. [Beware of the nomenclature](#nomenclature)
 
+<a name="intro">
 ## Introduction: Why googletest?
 
 *googletest* helps you write better C++ tests.
@@ -45,6 +48,7 @@ Since googletest is based on the popular xUnit architecture, you'll feel right
 at home if you've used JUnit or PyUnit before. If not, it will take you about 10
 minutes to learn the basics and get started. So let's go!
 
+<a name="nomenclature">
 ## Beware of the nomenclature
 
 _Note:_ There might be some confusion of idea due to different
